@@ -176,3 +176,8 @@
     width: 28%;
     margin: 1% auto;
 }
+
+.filter-btn{
+    padding: 1%;
+    text-align: end;
+}
